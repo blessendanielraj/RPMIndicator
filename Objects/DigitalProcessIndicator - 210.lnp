@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\DigitalProcessIndicator.obj" 
+TO ".\Objects\DigitalProcessIndicator - 210" 
+PRINT(".\Listings\DigitalProcessIndicator - 210.m51") RAMSIZE(256) 
